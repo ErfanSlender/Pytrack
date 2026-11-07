@@ -1,2 +1,2 @@
 def monthly_report():
-    print('Monthly report is ready!')
+    print('Monthly report is FEATURE')
