@@ -1,0 +1,102 @@
+[
+    {
+        "Type": "Income",
+        "Amount": 3000,
+        "Category": "Mashine Snapp"
+    },
+    {
+        "Type": "Expense",
+        "Amount": 1000,
+        "Category": "House"
+    },
+    {
+        "Type": "Income",
+        "Amount": 25000,
+        "Category": "Jobs"
+    },
+    {
+        "Type": "Expense",
+        "Amount": 1000,
+        "Category": "Food"
+    },
+    {
+        "Type": "Income",
+        "Amount": 2500,
+        "Category": "Snapp"
+    },
+    {
+        "Type": "Expense",
+        "Amount": 100,
+        "Category": "Food"
+    },
+    {
+        "Type": "Income",
+        "Amount": 2500,
+        "Category": "Snapp"
+    },
+    {
+        "Type": "Expense",
+        "Amount": 1500,
+        "Category": "Food"
+    },
+    {
+        "Type": "Income",
+        "Amount": 2500,
+        "Category": "Snapp",
+        "Date": ""
+    },
+    {
+        "Type": "Income",
+        "Amount": 2500,
+        "Category": "Snapp",
+        "Date": ""
+    },
+    {
+        "Type": "Income",
+        "Amount": 2500,
+        "Category": "Snapp",
+        "Date": ""
+    },
+    {
+        "Type": "Income",
+        "Amount": 2500,
+        "Category": "Snapp",
+        "Date": ""
+    },
+    {
+        "Type": "Expense",
+        "Amount": 2500,
+        "Category": "Food",
+        "Date": ""
+    },
+    {
+        "Type": "Income",
+        "Amount": 1000,
+        "Category": "Snapp",
+        "Date": "2026-10-&d"
+    },
+    {
+        "Type": "Expense",
+        "Amount": 100,
+        "Category": "Food",
+        "Date": "2026-10-29"
+    },
+    {
+        "Type": "Income",
+        "Amount": 25000,
+        "Category": "Snapp",
+        "Date": "2026-10-30"
+    },
+    {
+        "Type": "Income",
+        "Amount": 1200,
+        "Category": "Snapp",
+        "Date": "2026-10-30"
+    },
+    {
+        "Type": "Expense",
+        "Amount": 2000,
+        "Category": "Food",
+        "Date": "2026-10-31"
+    }
+]
