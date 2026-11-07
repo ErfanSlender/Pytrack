@@ -39,11 +39,11 @@ Run the appliaction:
 
 ## 📁 Project Structure
 PyTrack/
-|
-|__ main.py
-|__reports.py
-|__README.md
-|__.gitignore
+│
+├── main.py
+├── reports.py
+├── README.md
+└── .gitignore
 
 
 ## 👨‍💻 Author
