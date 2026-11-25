@@ -1,10 +1,5 @@
 [
     {
-        "Type": "Income",
-        "Amount": 3000,
-        "Category": "Mashine Snapp"
-    },
-    {
         "Type": "Expense",
         "Amount": 1000,
         "Category": "House"
